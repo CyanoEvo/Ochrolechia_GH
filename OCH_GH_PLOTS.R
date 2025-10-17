@@ -17,9 +17,6 @@ theme_nc <- function(){
           axis.title.x = element_text(size = 10), 
           axis.title.y = element_text(size = 10))
 }
-setwd("/home/nathan/Projects/CryptFunc_general/Ochrolechia_metagenomes/R")
-#setwd("D:/Projects/CryptFunc_general/Ochrolechia_metagenomes/R")
-
 
 ###start_from here_with _new_file
 #get a table just with unique pfams (no tax)
